@@ -22,6 +22,10 @@ td{
     text-align: center;
 }
 
+ul{
+    margin-top: 20px;
+}
+
 li{
     margin-left: 20px;
     text-align: left;
