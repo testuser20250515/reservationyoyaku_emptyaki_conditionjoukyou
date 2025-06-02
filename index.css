@@ -34,3 +34,10 @@ address{
     font-size: 15.4px;
     font-weight: bold;
 }
+
+p{
+    margin-left: 20px;
+    text-align: left;
+    font-size: 15.4px;
+    font-weight: bold;
+}
